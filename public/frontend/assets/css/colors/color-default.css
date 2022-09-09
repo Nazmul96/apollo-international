@@ -1,0 +1,8 @@
+:root {
+	--moniz-primary: #121796;
+	--moniz-primary-rgb: 18, 23, 150;
+	/*--moniz-secondary: #fec900;*/
+	/*--moniz-secondary-rgb: 254, 201, 0;*/
+	--moniz-secondary: #000;
+	--moniz-secondary-rgb: 0, 0, 0;
+}
